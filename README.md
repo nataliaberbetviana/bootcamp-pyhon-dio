@@ -15,25 +15,25 @@ O curso é focado em capacitar desenvolvedores para dominar a linguagem Python n
 ## 🎯 Atividades e Metodologia
 
 O aprendizado é dinâmico e focado na prática, com as seguintes atividades:
-* Mentorias (Live): Sessões interativas com profissionais experientes para tirar dúvidas e obter insights sobre carreira e tecnologia.
-* Code Challenge: Desafios de programação para aplicar e testar o conhecimento adquirido.
-* Project Challenge: Desenvolvimento de projetos práticos para a construção do portfólio.
-* Ranking: Competição saudável baseada em interações e desempenho nos desafios.
+* **Mentorias (Live):** Sessões interativas com profissionais experientes para tirar dúvidas e obter insights sobre carreira e tecnologia.
+* **Code Challenge:** Desafios de programação para aplicar e testar o conhecimento adquirido.
+* **Project Challenge:** Desenvolvimento de projetos práticos para a construção do portfólio.
+* **Ranking:** Competição saudável baseada em interações e desempenho nos desafios.
 
 ## 🛠️ Ferramentas de Aprendizagem
 
 O bootcamp oferece um ecossistema completo para o aprendizado e colaboração:
-* Fórum: Espaço para interação e solução de dúvidas técnicas.
-* Salas de Bate-papo (Rooms): Networking com outros participantes.
-* Enrolled: Conhecer e se conectar com os demais alunos do bootcamp.
-* Certificado: Reconhecimento das conquistas e aprendizados ao final do curso.
+* **Fórum:** Espaço para interação e solução de dúvidas técnicas.
+* **Salas de Bate-papo (Rooms):** Networking com outros participantes.
+* **Enrolled:** Conhecer e se conectar com os demais alunos do bootcamp.
+* **Certificado:** Reconhecimento das conquistas e aprendizados ao final do curso.
 
 ## 📂 Estrutura do Repositório
 
 Este repositório está organizado para refletir a jornada do bootcamp. Você encontrará:
-* Desafios/: Soluções para os desafios de código e projetos propostos.
-* Anotacoes/: Resumos e anotações das aulas e mentorias.
-* Projetos/: Repositórios dos projetos práticos desenvolvidos durante o bootcamp.
+* **Desafios:** Soluções para os desafios de código e projetos propostos.
+* **Anotacoes:** Resumos e anotações das aulas e mentorias.
+* **Projetos:** Repositórios dos projetos práticos desenvolvidos durante o bootcamp.
 
 ## 🤝 Contato
 
